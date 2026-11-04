@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.117",
+    "date": "2026-11-04",
+    "lt": [
+      "GIF pokalbyje nebepaslenka vaizdo įsikeldamas"
+    ],
+    "en": [
+      "A GIF no longer shifts the chat while it loads"
+    ]
+  },
+  {
     "version": "0.1.116",
     "date": "2026-11-04",
     "lt": [
