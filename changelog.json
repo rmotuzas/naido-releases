@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.1.121",
+    "date": "2026-11-04",
+    "lt": [
+      "Dabar matosi, ar žmogus aktyvus, pasitraukęs ar užsiėmęs, ir kiek laiko. Būseną pasirenki viršutinėje juostoje šalia Naido meniu.",
+      "Erdvės ir pokalbio narių sąraše matosi, kas naudoja Naido, o paspaudus žmogų galima iškart atidaryti pokalbį su juo.",
+      "Pažymėjus žodį dvigubu spragtelėjimu, Ctrl+B ir Ctrl+I dabar tikrai jį paryškina arba pasviria."
+    ],
+    "en": [
+      "You can now see whether someone is active, away or busy, and for how long. Choose your own status in the top bar next to the Naido menu.",
+      "Member lists of spaces and chats show who uses Naido, and clicking a person opens a chat with them.",
+      "Ctrl+B and Ctrl+I now really format a word selected with a double click."
+    ]
+  },
+  {
     "version": "0.1.117",
     "date": "2026-11-04",
     "lt": [
