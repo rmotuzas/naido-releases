@@ -1,0 +1,26 @@
+[
+  {
+    "version": "0.1.113",
+    "date": "2026-11-04",
+    "lt": ["Pokalbių sąraše paryškinti rodomi tik neperskaityti pokalbiai", "Sąraše nebeliko mažų avatarų dešinėje; kas perskaitė žinutę, matosi pačiame pokalbyje"],
+    "en": ["Only unread chats are bold in the chat list", "The tiny avatars on the right of the list are gone; who has read a message is shown in the chat itself"]
+  },
+  {
+    "version": "0.1.112",
+    "date": "2026-11-04",
+    "lt": ["Kelios nuotraukos iš eilės rodomos kaip galerija", "Prie nuotraukos ar failo galima parašyti komentarą", "Teksto formatavimas: paryškintas, pasviręs, sąrašai", "GIF paieška ir siuntimas", "GIF pokalbyje juda"],
+    "en": ["Several photos in a row show as a gallery", "You can add a comment to a photo or file", "Text formatting: bold, italic, lists", "Search and send GIFs", "GIFs move in the chat"]
+  },
+  {
+    "version": "0.1.109",
+    "date": "2026-11-04",
+    "lt": ["Kompiuteriuose su jutikliniu ekranu žinutės tekstą vėl galima žymėti pele", "Telefone palaikius žinutę atsiveria mažas meniu prie jos", "Telefone galima pažymėti ir nukopijuoti dalį žinutės teksto", "Skaičius ant užduočių juostos ikonos nebelieka perskaičius pokalbius"],
+    "en": ["On touchscreen computers, message text can be selected with a mouse again", "On phones, holding a message opens a small menu next to it", "On phones, you can select and copy part of a message", "The number on the taskbar icon no longer stays after you read your chats"]
+  },
+  {
+    "version": "0.1.106",
+    "date": "2026-11-03",
+    "lt": ["Filtras „Neperskaityti“ neberodo jau perskaitytų pokalbių", "Skirtukų užrašai nebeužlipa siaurinant langą", "Tvarkingesnė pokalbių sąrašo viršutinė dalis"],
+    "en": ["The Unread filter no longer lists chats you have read", "Tab labels no longer overlap in a narrow window", "A tidier top of the chat list"]
+  }
+]
