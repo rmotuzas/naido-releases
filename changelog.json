@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.1.115",
+    "date": "2026-11-04",
+    "lt": [
+      "Nustatymuose galima pasirinkti spalvą ir šriftą",
+      "Pasirinkta nuotrauka pokalbio, erdvės ar profilio nustatymuose matosi iš karto",
+      "Atidarytą nuotrauką galima priartinti pelės ratuku ir pavedžioti"
+    ],
+    "en": [
+      "Choose the colour and font in Settings",
+      "A picture you choose in chat, space or profile settings shows at once",
+      "Zoom into an open photo with the mouse wheel and drag it around"
+    ]
+  },
+  {
     "version": "0.1.114",
     "date": "2026-11-04",
     "lt": [
