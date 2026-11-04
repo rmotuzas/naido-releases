@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.116",
+    "date": "2026-11-04",
+    "lt": [
+      "Daugiau šriftų nustatymuose, įskaitant lieknus ir siaurus, bei Inter, kurį naudoja Element",
+      "Nustatymuose galima pasirinkti plonesnį tekstą"
+    ],
+    "en": [
+      "More fonts in Settings, including slim and narrow ones, and Inter, the font Element uses",
+      "Thinner text can be chosen in Settings"
+    ]
+  },
+  {
     "version": "0.1.115",
     "date": "2026-11-04",
     "lt": [
