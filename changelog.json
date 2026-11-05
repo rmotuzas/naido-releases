@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.1.129",
+    "date": "2026-11-05",
+    "lt": [
+      "Ilgas tekstas be tarpų, pavyzdžiui raktas, nebeišeina už burbulo ribų ir nebelieka spalvoto ploto.",
+      "Praslinkus toli į viršų atsiranda mygtukas grįžti prie naujausių žinučių, su naujų žinučių skaičiumi.",
+      "Nuotrauką ar vaizdo įrašą pokalbyje galima paslėpti ir vėl parodyti šiame įrenginyje."
+    ],
+    "en": [
+      "Long text without spaces, such as a key, no longer runs out of its bubble and leaves a coloured area.",
+      "When you scroll far up, a button takes you back to the latest messages and shows how many are new.",
+      "A photo or video in a chat can be hidden and shown again on this device."
+    ]
+  },
+  {
     "version": "0.1.128",
     "date": "2026-11-05",
     "lt": [
