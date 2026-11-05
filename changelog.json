@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.125",
+    "date": "2026-11-05",
+    "lt": [
+      "Profilio lange nuotrauka rodoma visa ir originalios kokybės, todėl jos spalvos turėtų būti tikros."
+    ],
+    "en": [
+      "The profile window shows the whole picture in its original quality, so its colours should be true."
+    ]
+  },
+  {
     "version": "0.1.124",
     "date": "2026-11-05",
     "lt": [
