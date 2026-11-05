@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.126",
+    "date": "2026-11-05",
+    "lt": [
+      "Paspaudus žmogaus ikonėlę pokalbyje atsidaro jo profilis, o paspaudus nuotrauką profilyje ją galima padidinti.",
+      "Nuotraukos atsidaro ir užsidaro sklandžiai, išaugdamos iš savo vietos pokalbyje."
+    ],
+    "en": [
+      "Clicking a person's picture in a chat opens their profile, and clicking the photo there lets you enlarge it.",
+      "Photos now open and close smoothly, growing out of their place in the chat."
+    ]
+  },
+  {
     "version": "0.1.125",
     "date": "2026-11-05",
     "lt": [
