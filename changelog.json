@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.123",
+    "date": "2026-11-05",
+    "lt": [
+      "Paredaguotos žinutės nebelieka tuščios: jei naujos versijos nepavyksta iššifruoti, matosi senasis tekstas ir apie tai parašoma."
+    ],
+    "en": [
+      "Edited messages no longer turn empty: if the new version cannot be decrypted, the old text stays and a note says so."
+    ]
+  },
+  {
     "version": "0.1.122",
     "date": "2026-11-05",
     "lt": [
