@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.1.127",
+    "date": "2026-11-05",
+    "lt": [
+      "Prisijungimas per serverio puslapį dabar atsidaro naršyklėje, tad Naido lange nebeįstrigsi, pavyzdžiui, keisdamas slaptažodį.",
+      "Paspaudus atsakymo citatą ar prisegtą žinutę, programa suranda ir seną žinutę, net jei ji dar neįkelta.",
+      "Sąrašai baigiasi vienodai vienu paspaudimu, o paryškinti galima ir kelias eilutes iš karto.",
+      "Nuotrauka užsidaro paspaudus šalia jos, Enter paieškoje atidaro pirmą rezultatą, o profilį galima atidaryti ir iš paieškos.",
+      "Prie rašymo laukelio nebėra 👍 mygtuko, atnaujinimų tikrinimas turi savo langą, o spynelė matoma visose pokalbio skiltyse."
+    ],
+    "en": [
+      "Signing in through your server's page now opens in your browser, so you can no longer get stuck in the Naido window, for example while resetting a password.",
+      "Clicking a reply quote or a pinned message now finds old messages too, even if they are not loaded yet.",
+      "Lists end the same way with one press, and several lines can be made bold at once.",
+      "A photo closes when you click beside it, Enter in search opens the first result, and a profile can be opened from search too.",
+      "The 👍 button next to the message box is gone, checking for updates has its own window, and the lock shows in all sections of a chat."
+    ]
+  },
+  {
     "version": "0.1.126",
     "date": "2026-11-05",
     "lt": [
