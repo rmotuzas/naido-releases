@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.1.122",
+    "date": "2026-11-05",
+    "lt": [
+      "Kol dirbi Naido, pranešimai apie naujas žinutes nebeiššoka, o iššokęs langelis neturėtų atimti fokuso, kai rašai kitoje programoje.",
+      "Nustatymuose pranešimus galima išjungti, taip pat pakeisti, ar Naido veikia uždarius langą.",
+      "Nauja parinktis slepia atšauktas žinutes, kad jos neterštų pokalbio.",
+      "Narių sąrašai surikiuoti pagal abėcėlę, o didesniuose yra paieška.",
+      "Paspaudus dešiniu pelės mygtuku žmogaus ikonėlę pokalbyje, atsidaro jo profilis su didele nuotrauka."
+    ],
+    "en": [
+      "New message popups no longer appear while you are working in Naido, and a popup should no longer take the focus when you are typing in another app.",
+      "You can now turn notifications off in the settings, and change whether Naido keeps running after the window is closed.",
+      "A new option hides unsent messages, so they no longer clutter the chat.",
+      "Member lists are in alphabetical order, and longer ones have a search box.",
+      "Right-clicking a person's picture in a chat opens their profile with a large photo."
+    ]
+  },
+  {
     "version": "0.1.121",
     "date": "2026-11-04",
     "lt": [
