@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.1.124",
+    "date": "2026-11-05",
+    "lt": [
+      "Jei išsaugota viena paskyra, Naido atsidaro iš karto, nieko neklausdama.",
+      "Pranešimai nustatymuose išjungiami tokiu pat mygtuku kaip kiti nustatymai, o išjungus lieka tik žinučių skaičius ant ikonos.",
+      "Pokalbio nustatymuose galima pasirinkti to pokalbio pranešimus arba jį nutildyti.",
+      "Žmogaus profilį su didele nuotrauka atidarysi paspaudęs jo ikonėlę narių sąraše arba per pokalbio meniu kairėje."
+    ],
+    "en": [
+      "With one saved account, Naido opens it right away without asking.",
+      "Notifications are turned off in the settings with the same button as the other options, and when off only the message count on the icon stays.",
+      "Chat settings let you choose that chat's notifications or mute it.",
+      "Open a person's profile with a large photo by clicking their picture in a member list, or from the chat's menu on the left."
+    ]
+  },
+  {
     "version": "0.1.123",
     "date": "2026-11-05",
     "lt": [
