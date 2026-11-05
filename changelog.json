@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.128",
+    "date": "2026-11-05",
+    "lt": [
+      "Kairiojo pokalbių sąrašo plotį galima keisti tempiant jo kraštą, o dukart spustelėjus kraštą plotis grįžta į įprastą."
+    ],
+    "en": [
+      "You can change the width of the chat list on the left by dragging its edge, and a double click on the edge brings back the usual width."
+    ]
+  },
+  {
     "version": "0.1.127",
     "date": "2026-11-05",
     "lt": [
