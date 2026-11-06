@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.131",
+    "date": "2026-11-06",
+    "lt": [
+      "Ant „Visi pokalbiai“ ikonos rodomas neperskaitytų pokalbių, kurie nepriklauso jokiai erdvei (pvz. asmeninių), skaičius, todėl matosi, kur atėjo žinutė."
+    ],
+    "en": [
+      "The “All chats” icon shows how many unread chats belong to no space (such as direct chats), so you can see where a message arrived."
+    ]
+  },
+  {
     "version": "0.1.130",
     "date": "2026-11-06",
     "lt": [
