@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.139",
+    "date": "2026-11-06",
+    "lt": [
+      "Nauja: „Ne darbe“. Nustatymuose įveskite atostogas ar komandiruotes (kelis periodus, su pastaba ir pavaduojančiu žmogumi). Kiti Naido vartotojai tai matys ant jūsų nuotraukos, pokalbio antraštėje ir rašydami jums, o naujoje skiltyje „Ne darbe“ – visos komandos metus, mėnesį ar savaitę spalvotais langeliais arba sąrašu."
+    ],
+    "en": [
+      "New: “Out of office”. Enter your holidays or work trips in Settings (several periods, with a note and who stands in). Other Naido users see it on your picture, in the chat header and when writing to you, and the new “Out of office” section shows the whole team's year, month or week as coloured squares, or as a list."
+    ]
+  },
+  {
     "version": "0.1.134",
     "date": "2026-11-06",
     "lt": [
