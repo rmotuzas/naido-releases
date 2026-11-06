@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.1.134",
+    "date": "2026-11-06",
+    "lt": [
+      "Skiltys virš pokalbio (Pokalbis, Nuotraukos, Failai…) atnaujintos: vienodos ikonos, pasirinkta skiltis aiškiai išsiskiria, filtrai „Neperskaityti“ ir „Mėgstami“ sulygiuoti kairėje.",
+      "Android: pranešimai apie žinutes viršutinėje juostoje rodomi su Naido ikona.",
+      "Nustatymuose paspaudus savo, pokalbio ar erdvės nuotrauką, ji atsidaro didelė; pakeisti galima nuoroda „Keisti nuotrauką“ šalia.",
+      "Windows: neperskaitytų skaičius ant Naido mygtuko užduočių juostoje nebedingsta, kai langas būna paslėptas prie laikrodžio ar Naido paleidžiamas kartu su kompiuteriu.",
+      "Paspaudus reakcijas po žinute, atsidaro visas sąrašas, kas ir kaip sureagavo, kiekvienas žmogus atskiroje eilutėje; jis nebepasislepia už rašymo laukelio."
+    ],
+    "en": [
+      "The sections above a chat (Chat, Photos, Files…) are refreshed: matching icons, the chosen one clearly stands out, and the Unread and Favourites filters sit on the left.",
+      "Android: message notifications show the Naido icon in the status bar.",
+      "In settings, clicking your own, a chat's or a space's picture opens it large; change it with “Change picture” next to it.",
+      "Windows: the unread count on Naido's taskbar button no longer disappears after the window was hidden in the tray or Naido started with the computer.",
+      "Clicking the reactions under a message opens the full list of who reacted with what, one person per line; it no longer hides behind the message box."
+    ]
+  },
+  {
     "version": "0.1.133",
     "date": "2026-11-06",
     "lt": [
