@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.1.130",
+    "date": "2026-11-06",
+    "lt": [
+      "Android: kol Naido veikia fone, telefonas nebeužmigdo jos išjungus ekraną, todėl žinutės ateina ir per naktį.",
+      "Paleidus Naido, atsidaro tos paskyros, kurios buvo atidarytos paskutinį kartą, ir nieko neklausiama.",
+      "Vieną paskyrą galima uždaryti jos neištrinant: Nustatymai → Paskyra arba ikonos prie laikrodžio meniu. Telefone ten pat galima perjungti paskyrą."
+    ],
+    "en": [
+      "Android: while Naido runs in the background, the phone no longer puts it to sleep when the screen is off, so messages keep arriving overnight.",
+      "Naido opens the accounts that were open last time, without asking.",
+      "You can close one account without removing it: Settings → Account or the menu of the icon by the clock. On phones you can switch accounts there."
+    ]
+  },
+  {
     "version": "0.1.129",
     "date": "2026-11-05",
     "lt": [
