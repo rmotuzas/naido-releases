@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.140",
+    "date": "2026-11-06",
+    "lt": [
+      "„Ne darbe“ duomenys nebėra vieši: atostogas ir komandiruotes dabar mato tik bendrų erdvių nariai, o ne kiekvienas, žinantis jūsų adresą. Erdvės administratorius „Ne darbe“ įjungia erdvės nustatymuose; jau įvesti periodai perkeliami patys."
+    ],
+    "en": [
+      "“Out of office” is no longer public: holidays and work trips are now seen only by members of shared spaces, not by anyone who knows your address. A space administrator turns “Out of office” on in the space settings; periods already entered move over by themselves."
+    ]
+  },
+  {
     "version": "0.1.139",
     "date": "2026-11-06",
     "lt": [
