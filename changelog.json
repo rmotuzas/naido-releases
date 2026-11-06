@@ -1,17 +1,5 @@
 [
   {
-    "version": "0.1.132",
-    "date": "2026-11-06",
-    "lt": [
-      "Skiltys virš pokalbio (Pokalbis, Nuotraukos, Failai…) atnaujintos: vienodos ikonos, pasirinkta skiltis aiškiai išsiskiria, filtrai „Neperskaityti“ ir „Mėgstami“ sulygiuoti kairėje.",
-      "Android: pranešimai apie žinutes viršutinėje juostoje rodomi su Naido ikona."
-    ],
-    "en": [
-      "The sections above a chat (Chat, Photos, Files…) are refreshed: matching icons, the chosen one clearly stands out, and the Unread and Favourites filters sit on the left.",
-      "Android: message notifications show the Naido icon in the status bar."
-    ]
-  },
-  {
     "version": "0.1.131",
     "date": "2026-11-06",
     "lt": [
