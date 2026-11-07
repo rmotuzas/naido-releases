@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.145",
+    "date": "2026-11-07",
+    "lt": [
+      "Rašymo laukelyje vėl matyti pažymėtas tekstas.",
+      "Dukart spustelėjus žodį ar pažymėjus tekstą pele, atsidaro formatavimo juosta."
+    ],
+    "en": [
+      "Selected text shows in the message box again.",
+      "Double-clicking a word or selecting text with the mouse opens the formatting bar."
+    ]
+  },
+  {
     "version": "0.1.144",
     "date": "2026-11-07",
     "lt": [
