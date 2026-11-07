@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.144",
+    "date": "2026-11-07",
+    "lt": [
+      "Formatavimo juostoje atsirado perbraukimas, kodas, citata ir nuoroda.",
+      "Rašant žinutę tekstas iš karto rodomas suformatuotas: paryškinti, pasvirę ar perbraukti žodžiai matosi dar prieš išsiunčiant, o formatavimo žymės lieka pilkos."
+    ],
+    "en": [
+      "The formatting bar now has strikethrough, code, quote and link.",
+      "While you write, the message shows formatted right away: bold, italic or struck-through words look that way before you send, with the formatting marks greyed out."
+    ]
+  },
+  {
     "version": "0.1.143",
     "date": "2026-11-07",
     "lt": [
