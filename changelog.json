@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.1.142",
+    "date": "2026-11-07",
+    "lt": [
+      "Windows'e Naido nuo šiol atsinaujins pats: kai kompiuteriu nesinaudojate arba ką tik paleidus programą, ir niekada, kol rašote, įrašinėjate ar siunčiate failus. Išjungti galima nustatymuose „Apie programą“.",
+      "Jei atostogaujantis kolega prisijungęs, lagaminėlis ant jo nuotraukos rodomas ant būsenos spalvos, o pokalbio antraštėje parašyta, pavyzdžiui, „Atostogose iki lapkričio 13 d. · Aktyvus“.",
+      "„Ne darbe“ kalendoriuje paspaudus savo periodą, atsidaro būtent jis, o ne kitas."
+    ],
+    "en": [
+      "On Windows, Naido now updates by itself: while you are not using the computer or right after it starts, and never while you are writing, recording or sending files. You can turn this off in Settings → About.",
+      "If a colleague on holiday is online, the suitcase on their picture sits on their status colour, and the chat header says, for example, “On holiday until 13 November · Active”.",
+      "Clicking one of your own periods in the “Out of office” calendar now opens that period, not another one."
+    ]
+  },
+  {
     "version": "0.1.141",
     "date": "2026-11-07",
     "lt": [
