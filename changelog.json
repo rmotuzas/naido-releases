@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.146",
+    "date": "2026-11-07",
+    "lt": [
+      "Pranešimams dingus, ekrano kampe nebelieka nematomo ploto, kuriame neveikdavo pelė."
+    ],
+    "en": [
+      "After a notification goes away, no invisible area is left in the screen corner where the mouse did not work."
+    ]
+  },
+  {
     "version": "0.1.145",
     "date": "2026-11-07",
     "lt": [
