@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.1.143",
+    "date": "2026-11-07",
+    "lt": [
+      "Prisegtos žinutės pokalbyje pažymėtos mažu smeigtuku, o išsaugotos – žvaigždute, todėl slenkant jas lengva pastebėti.",
+      "Dešiniuoju pelės mygtuku ant pokalbio nuotraukos ar pavadinimo atsidaro pokalbio meniu, o profilio nuotraukos nebesitempia pele.",
+      "Android'e prisijungimas per serverio puslapį atsidaro naršyklės skirtuke ir grįžta į Naido, net jei pakeliui keičiate slaptažodį. Prisijungimo lange atsirado mygtukas „Uždaryti Naido“.",
+      "Su šia versija išbandomas automatinis atnaujinimas Windows'e."
+    ],
+    "en": [
+      "Pinned messages are marked with a small pin in the chat and saved ones with a star, so they are easy to spot while scrolling.",
+      "Right-clicking a chat's picture or name opens the chat menu, and profile pictures no longer drag with the mouse.",
+      "On Android, signing in through the server's page opens in a browser tab and comes back to Naido, even if you reset your password on the way. The sign-in screen has a “Close Naido” button.",
+      "This version is the first to try automatic updating on Windows."
+    ]
+  },
+  {
     "version": "0.1.142",
     "date": "2026-11-07",
     "lt": [
