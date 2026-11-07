@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.1.141",
+    "date": "2026-11-07",
+    "lt": [
+      "Kvietimai į erdves rodomi kairėje juostoje: paspaudę matote, kas kviečia, ir galite prisijungti.",
+      "Juostelės apie atostogas virš rašymo laukelio nebeliko. Asmeniniame pokalbyje tai rodoma antraštėje, o atidarius žmogaus profilį – iki kada jo nėra, pastaba ir kam rašyti skubiais klausimais.",
+      "Išėjus iš erdvės ar jus pašalinus, jos „Ne darbe“ kalendorius jūsų nebemato ir jūs jo nebematote, net jei tai padaryta kita programa.",
+      "Nustatymuose „Ne darbe“ parašyta, kurių erdvių nariai mato jūsų periodus."
+    ],
+    "en": [
+      "Space invitations show in the left bar: click one to see who invited you and join.",
+      "The holiday banner above the message box is gone. In a direct chat it shows in the header, and a person's profile says until when they are away, their note and whom to contact for urgent matters.",
+      "When you leave a space or are removed from it, its “Out of office” calendar no longer shows you and you no longer see it, even if it was done in another app.",
+      "Settings → Out of office lists the spaces whose members see your periods."
+    ]
+  },
+  {
     "version": "0.1.140",
     "date": "2026-11-06",
     "lt": [
