@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.147",
+    "date": "2026-11-08",
+    "lt": [
+      "Telefone nauja versija atsisiunčiama pačioje Naido, nebe per naršyklę, ir iškart atsidaro diegimo langas."
+    ],
+    "en": [
+      "On phones, a new version now downloads inside Naido instead of the browser, and the installer opens right away."
+    ]
+  },
+  {
     "version": "0.1.146",
     "date": "2026-11-07",
     "lt": [
