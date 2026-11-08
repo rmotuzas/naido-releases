@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.152",
+    "date": "2026-11-08",
+    "lt": [
+      "Šifruotuose pokalbiuose pranešimas, net kai Naido uždaryta, dabar rodo žinutės tekstą. Telefonas jį iššifruoja pats, į jokį serverį tekstas nesiunčiamas."
+    ],
+    "en": [
+      "In encrypted chats, the notification now shows the message text even when Naido is closed. The phone decrypts it itself; the text is not sent to any server."
+    ]
+  },
+  {
     "version": "0.1.150",
     "date": "2026-11-08",
     "lt": [
