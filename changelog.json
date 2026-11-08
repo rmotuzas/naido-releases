@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.150",
+    "date": "2026-11-08",
+    "lt": [
+      "Telefone žinutės ateina ir uždarius Naido („Uždaryti visas“): pranešimas rodo siuntėją ir tekstą, o paspaudus atsidaro pokalbis.",
+      "Šifruotuose pokalbiuose, kol Naido uždaryta, pranešime rašoma „Nauja žinutė“."
+    ],
+    "en": [
+      "On phones, messages arrive even after Naido is closed (“Close all”): the notification shows the sender and the text, and a tap opens the chat.",
+      "In encrypted chats, while Naido is closed, the notification says “New message”."
+    ]
+  },
+  {
     "version": "0.1.147",
     "date": "2026-11-08",
     "lt": [
