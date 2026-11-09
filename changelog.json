@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.163",
+    "date": "2026-11-09",
+    "lt": [
+      "Telefone Naido įspėja, jei telefono nustatymuose jai neleista veikti fone – tada pranešimai neateina.",
+      "Geltona įspėjimo juosta po kelių sekundžių pasislepia pati."
+    ],
+    "en": [
+      "On a phone, Naido warns when the phone's settings don't let it run in the background, which stops notifications.",
+      "The yellow warning bar hides by itself after a few seconds."
+    ]
+  },
+  {
     "version": "0.1.161",
     "date": "2026-11-09",
     "lt": [
