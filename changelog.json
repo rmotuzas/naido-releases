@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.154",
+    "date": "2026-11-09",
+    "lt": [
+      "Jei GitHub neveikia, atnaujinimai parsisiunčiami iš atsarginio Naido serverio.",
+      "Kai atnaujinimų serveriai nepasiekiami, Naido tai ir parašo, o atsisiuntimas nebestringa ties 0 %."
+    ],
+    "en": [
+      "If GitHub is down, updates download from Naido's backup server.",
+      "When the update servers can't be reached, Naido says so instead of a download stuck at 0 %."
+    ]
+  },
+  {
     "version": "0.1.153",
     "date": "2026-11-09",
     "lt": [
