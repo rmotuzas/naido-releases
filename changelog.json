@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.161",
+    "date": "2026-11-09",
+    "lt": [
+      "Paskyrą galima ištrinti: Nustatymai → Paskyra → „Ištrinti paskyrą“."
+    ],
+    "en": [
+      "You can delete your account: Settings → Account → “Delete account”."
+    ]
+  },
+  {
     "version": "0.1.159",
     "date": "2026-11-09",
     "lt": [
