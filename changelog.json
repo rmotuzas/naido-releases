@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.153",
+    "date": "2026-11-09",
+    "lt": [
+      "Prie failų rodoma jų tipo ikona: Word, Excel, PDF, paveikslėlis, archyvas ir kt.",
+      "Nustatymuose (Išvaizda → Pokalbių sąrašas) galima išjungti paskutinės žinutės rodymą, kad šalia esantys nematytų jūsų žinučių."
+    ],
+    "en": [
+      "Files now show an icon of their type: Word, Excel, PDF, picture, archive and more.",
+      "In Settings (Appearance → Chat list) you can hide the last message, so people nearby can't read your messages."
+    ]
+  },
+  {
     "version": "0.1.152",
     "date": "2026-11-08",
     "lt": [
