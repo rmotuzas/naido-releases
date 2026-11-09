@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.164",
+    "date": "2026-11-09",
+    "lt": [
+      "Žmogų galima užblokuoti jo profilyje: nebematysite jo žinučių ir kvietimų. Užblokuotų sąrašas – Nustatymai → Saugumas.",
+      "Apie netinkamą žinutę galima pranešti savo serverio administratoriams: žinutės meniu → „Pranešti…“."
+    ],
+    "en": [
+      "You can block someone from their profile: you won't see their messages or invites. The list is in Settings → Security.",
+      "You can report an inappropriate message to your server's administrators: message menu → “Report…”."
+    ]
+  },
+  {
     "version": "0.1.163",
     "date": "2026-11-09",
     "lt": [
