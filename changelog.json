@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.1.156",
+    "date": "2026-11-09",
+    "lt": [
+      "Jei kompiuteryje nėra programos failui atidaryti, failas išsaugomas „Atsisiuntimuose“ ir galima pasirinkti, kuo jį atidaryti. Telefone failai atidaromi telefono programomis, o „Išsaugoti kaip…“ juos deda į „Atsisiuntimus“.",
+      "„Ne darbe“ skiltyje rodomos ir atostogos bei komandiruotės iš įmonės HR sistemos (pažymėtos „Iš HR sistemos“, jų keisti negalima).",
+      "Pokalbio ir erdvės nustatymuose matyti jų ID ir adresas, kuriuos galima nukopijuoti."
+    ],
+    "en": [
+      "If no program on the computer opens a file, it is saved to Downloads and you can choose what to open it with. On phones, files open in phone apps, and “Save as…” puts them in Downloads.",
+      "“Away” also shows holidays and work trips from your company's HR system (marked “From the HR system”; they can't be changed).",
+      "Chat and space settings show their ID and address, ready to copy."
+    ]
+  },
+  {
     "version": "0.1.154",
     "date": "2026-11-09",
     "lt": [
