@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.1.159",
+    "date": "2026-11-09",
+    "lt": [
+      "Failai atsidaro ir tada, kai tas pats dokumentas jau atidarytas „Word“ ar kitoje programoje.",
+      "Jei failo atidaryti nepavyksta, pranešime parašyta ir priežastis."
+    ],
+    "en": [
+      "Files open even when the same document is already open in Word or another program.",
+      "When a file can't be opened, the message also says why."
+    ]
+  },
+  {
     "version": "0.1.156",
     "date": "2026-11-09",
     "lt": [
