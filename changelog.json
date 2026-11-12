@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.1.183",
+    "date": "2026-11-12",
+    "lt": [
+      "Daug nuotraukų išsiunčiama greičiau: keliamos kelios vienu metu, o virš rašymo laukelio matosi, kiek jau išsiųsta, ir siuntimą galima atšaukti.",
+      "Siuntimo lange nuotraukos rodomos tinkleliu, nereikalingą galima išimti ✕.",
+      "Didelis nuotraukų rinkinys pokalbyje užima mažiau vietos: rodomos 6, kitos – paspaudus „+N“.",
+      "Visas rinkinio nuotraukas galima atsisiųsti iš karto: „Atsisiųsti visas“ žinutės meniu arba peržiūroje.",
+      "Telefone erdvės ir pokalbio nustatymuose narių vardai nebesuspaudžiami."
+    ],
+    "en": [
+      "Sending many photos is faster: several upload at once, the line above the message box shows how many have gone, and sending can be cancelled.",
+      "The send window shows photos as a grid; remove any you do not want with ✕.",
+      "A large set of photos takes less room in the chat: 6 are shown, the rest behind “+N”.",
+      "All the photos of a set can be downloaded at once: “Download all” in the message menu or in the viewer.",
+      "On phones, member names in space and chat settings are no longer squeezed."
+    ]
+  },
+  {
     "version": "0.1.164",
     "date": "2026-11-09",
     "lt": [
