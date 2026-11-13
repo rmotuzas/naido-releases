@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.1.186",
+    "date": "2026-11-13",
+    "lt": [
+      "Atkūrimo raktas visada atrakina ir senas žinutes: jei šiame įrenginyje trūksta raktų, prieš kuriant naują Naido paprašo dabartinio rakto.",
+      "Jei atkūrimo raktas neatkurtų senų žinučių (pvz., jį pakeitė kita programa), Naido tai parodo rakto lange, vieną kartą primena ir pasiūlo sukurti naują.",
+      "Įvedus raktą, kuriame nėra senų žinučių, Naido tai pasako ir paaiškina, ką daryti.",
+      "Pamiršus atkūrimo raktą, „Nustatyti iš naujo“ nebepalieka sugadintos tapatybės.",
+      "Kai kuriuose kompiuteriuose su jutikliniu ekranu (pvz., prijungus antrą monitorių) vėl galima pele ar pieštuku pažymėti žinučių tekstą, matosi mygtukai prie žinučių."
+    ],
+    "en": [
+      "A recovery key always unlocks old messages too: if this device lacks keys, Naido asks for the current key before making a new one.",
+      "If the recovery key would not bring back old messages (for example, another app changed it), Naido shows it in the key window, reminds you once and offers to make a new one.",
+      "Entering a key that holds no old messages, Naido says so and explains what to do.",
+      "With a forgotten recovery key, “Reset” no longer leaves a broken identity behind.",
+      "On some touchscreen laptops (for example, with a second monitor) message text can be selected with a mouse or pen again, and the buttons beside messages show up."
+    ]
+  },
+  {
     "version": "0.1.183",
     "date": "2026-11-12",
     "lt": [
