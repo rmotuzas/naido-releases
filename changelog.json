@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.1.188",
+    "date": "2026-11-14",
+    "lt": [
+      "Android telefone Naido atsirado bendrinimo sąraše: nuorodas, tekstą, nuotraukas ir failus iš kitų programų (pvz., Messenger ar galerijos) galima nusiųsti į pasirinktą pokalbį."
+    ],
+    "en": [
+      "On Android, Naido is now in the Share menu: links, text, photos and files from other apps (such as Messenger or the gallery) can be sent to a chat you pick."
+    ]
+  },
+  {
     "version": "0.1.186",
     "date": "2026-11-13",
     "lt": [
