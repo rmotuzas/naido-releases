@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.1.195",
+    "date": "2026-11-15",
+    "lt": [
+      "Jei pokalbyje yra balsavimas, kuriame dar nebalsavote, virš žinučių rodoma juosta: balsuoti galima iš karto, neieškant žinutės. „Balsavimų“ skiltyje matyti, kiek balsavimų laukia jūsų balso."
+    ],
+    "en": [
+      "If a chat has a poll you haven't voted in yet, a bar above the messages shows it, so you can vote right away without looking for the message. The Polls section shows how many polls are waiting for your vote."
+    ],
+    "de": [
+      "Gibt es in einem Chat eine Umfrage, an der Sie noch nicht teilgenommen haben, erscheint über den Nachrichten eine Leiste: Sie können sofort abstimmen, ohne die Nachricht zu suchen. Im Bereich „Umfragen“ sehen Sie, wie viele Umfragen auf Ihre Stimme warten."
+    ],
+    "fr": [
+      "Si une discussion contient un sondage auquel vous n’avez pas encore répondu, un bandeau s’affiche au-dessus des messages : vous pouvez voter tout de suite, sans chercher le message. La section « Sondages » indique combien de sondages attendent votre vote."
+    ]
+  },
+  {
     "version": "0.1.194",
     "date": "2026-11-15",
     "lt": [
