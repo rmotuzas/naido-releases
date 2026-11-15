@@ -1,5 +1,37 @@
 [
   {
+    "version": "0.1.194",
+    "date": "2026-11-15",
+    "lt": [
+      "Naido kalba ir vokiškai bei prancūziškai: kalbą galima pasirinkti diegiant, prisijungimo lange ar nustatymuose.",
+      "GIF siunčiami kaip paveikslėliai, tad juos mato ir Element vartotojai; erdvės ar pokalbio nustatymuose GIF mygtuką galima išjungti.",
+      "Nuotraukas ir failus galima persiųsti tiesiai iš „Nuotraukų“ ir „Failų“ skilčių bei peržiūros.",
+      "Telefone paprastesnis pokalbių sąrašo ir pokalbio viršus: erdvė pasirenkama paspaudus sąrašo pavadinimą, o paspaudus pokalbio pavadinimą atsidaro jo nuotraukos, failai ir nariai. Klaviatūra nebeuždengia rašymo laukelio ir pati nebeiššoka.",
+      "Siaurame kompiuterio lange, kol pokalbis neatidarytas, rodomas visas pokalbių sąrašas, o ne tuščias plotas."
+    ],
+    "en": [
+      "Naido now speaks German and French too: pick the language when installing, on the sign-in screen or in Settings.",
+      "GIFs are sent as pictures, so people using Element see them too; the GIF button can be turned off in a space's or a chat's settings.",
+      "Photos and files can be forwarded straight from the Photos and Files sections and from the viewer.",
+      "On phones the tops of the chat list and of a chat are simpler: tap the list's title to pick a space, or a chat's name for its photos, files and members. The keyboard no longer covers the message box or pops up by itself.",
+      "In a narrow window on a computer, the whole chat list shows until you open a chat, instead of an empty area."
+    ],
+    "de": [
+      "Naido spricht jetzt auch Deutsch und Französisch: Die Sprache wählen Sie bei der Installation, auf dem Anmeldebildschirm oder in den Einstellungen.",
+      "GIFs werden als Bilder gesendet, sodass auch Element-Nutzer sie sehen; die GIF-Schaltfläche lässt sich in den Einstellungen eines Space oder Chats ausschalten.",
+      "Fotos und Dateien lassen sich direkt aus den Bereichen „Fotos“ und „Dateien“ sowie aus der Vorschau weiterleiten.",
+      "Auf dem Handy sind Chatliste und Chat oben aufgeräumter: Tippen Sie auf den Titel der Liste, um einen Space zu wählen, oder auf den Namen eines Chats für seine Fotos, Dateien und Mitglieder. Die Tastatur verdeckt das Eingabefeld nicht mehr und öffnet sich nicht mehr von selbst.",
+      "In einem schmalen Fenster am Computer wird die ganze Chatliste angezeigt, bis Sie einen Chat öffnen, statt einer leeren Fläche."
+    ],
+    "fr": [
+      "Naido parle désormais aussi allemand et français : choisissez la langue à l’installation, sur l’écran de connexion ou dans les paramètres.",
+      "Les GIF sont envoyés comme images, les utilisateurs d’Element les voient donc aussi ; le bouton GIF peut être désactivé dans les paramètres d’un espace ou d’une discussion.",
+      "Les photos et fichiers peuvent être transférés directement depuis les sections « Photos » et « Fichiers » et depuis la visionneuse.",
+      "Sur téléphone, le haut de la liste et des discussions est plus simple : touchez le titre de la liste pour choisir un espace, ou le nom d’une discussion pour ses photos, fichiers et membres. Le clavier ne masque plus le champ de saisie et ne s’ouvre plus tout seul.",
+      "Dans une fenêtre étroite sur ordinateur, toute la liste des discussions s’affiche tant qu’aucune discussion n’est ouverte, au lieu d’une zone vide."
+    ]
+  },
+  {
     "version": "0.1.188",
     "date": "2026-11-14",
     "lt": [
