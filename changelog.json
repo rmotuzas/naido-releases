@@ -1,5 +1,33 @@
 [
   {
+    "version": "0.1.199",
+    "date": "2026-11-16",
+    "lt": [
+      "Windows'e po paieškos ir kitais laukeliais nebeiššoka baltas langelis su anksčiau įvestais žodžiais.",
+      "Kompiuteryje paspaustas failas (pvz., Word dokumentas) dabar išsaugomas aplanke „Atsisiuntimai“ ir atidaromas iš ten, tad vėliau jį lengva rasti. „Išsaugoti kaip…“ irgi pirmiausia siūlo „Atsisiuntimus“.",
+      "Android (programa iš naido.lt): nebėra nuolatinio pranešimo „Naido laukia žinučių“ – žinutės ateina per Google pranešimus, kaip Google Play versijoje, ir mažiau naudojama baterija. Jei telefone Google pranešimai neveikia, Naido kaip anksčiau veikia fone.",
+      "Atsakant į žinutę galima siųsti ir nuotrauką, failą, balso žinutę ar GIF – jie išsiunčiami kaip atsakymas, o „Atsakoma …“ juosta po to užsidaro."
+    ],
+    "en": [
+      "On Windows, the white pop-up with things you typed earlier no longer appears under the search box and other fields.",
+      "On a computer, a file you click (a Word document, say) is now saved to your Downloads folder and opened from there, so it is easy to find later. “Save as…” also starts in Downloads.",
+      "Android (app from naido.lt): the permanent “Naido is waiting for messages” notification is gone – messages arrive through Google notifications, as in the Google Play version, and the battery lasts longer. If Google notifications don't work on the phone, Naido keeps running in the background as before.",
+      "When replying to a message you can also send a photo, a file, a voice message or a GIF – it goes as the reply, and the “Replying to …” bar closes afterwards."
+    ],
+    "de": [
+      "Unter Windows erscheint unter dem Suchfeld und anderen Feldern nicht mehr das weiße Fenster mit früher eingegebenen Wörtern.",
+      "Am Computer wird eine angeklickte Datei (etwa ein Word-Dokument) jetzt im Ordner „Downloads“ gespeichert und von dort geöffnet, sodass Sie sie später leicht wiederfinden. Auch „Speichern unter …“ beginnt in „Downloads“.",
+      "Android (App von naido.lt): Die dauerhafte Benachrichtigung „Naido wartet auf Nachrichten“ ist weg – Nachrichten kommen über Google-Benachrichtigungen wie in der Google-Play-Version, und der Akku hält länger. Funktionieren Google-Benachrichtigungen auf dem Telefon nicht, läuft Naido wie bisher im Hintergrund.",
+      "Beim Antworten auf eine Nachricht können Sie auch ein Foto, eine Datei, eine Sprachnachricht oder ein GIF senden – es wird als Antwort gesendet, und die Leiste „Antwort an …“ schließt sich danach."
+    ],
+    "fr": [
+      "Sous Windows, la fenêtre blanche avec les mots saisis auparavant n’apparaît plus sous le champ de recherche et les autres champs.",
+      "Sur ordinateur, un fichier sur lequel vous cliquez (un document Word, par exemple) est désormais enregistré dans le dossier « Téléchargements » et ouvert depuis celui-ci : vous le retrouvez facilement. « Enregistrer sous… » s’ouvre aussi dans « Téléchargements ».",
+      "Android (application de naido.lt) : la notification permanente « Naido attend les messages » a disparu – les messages arrivent par les notifications Google, comme dans la version Google Play, et la batterie dure plus longtemps. Si les notifications Google ne fonctionnent pas sur le téléphone, Naido continue de fonctionner en arrière-plan comme avant.",
+      "En répondant à un message, vous pouvez aussi envoyer une photo, un fichier, un message vocal ou un GIF : il part comme réponse, et la barre « Réponse à… » se ferme ensuite."
+    ]
+  },
+  {
     "version": "0.1.195",
     "date": "2026-11-15",
     "lt": [
