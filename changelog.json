@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.1.202",
+    "date": "2026-11-17",
+    "lt": [
+      "Reakcijos po žinute rodomos atskirai su skaičiumi. Paspaudus emoji, jis uždedamas, o paspaudus savo – matosi, kas reagavo, ir savo reakciją galima pašalinti, kad ir kiek jų būtų."
+    ],
+    "en": [
+      "Reactions under a message are shown one by one with their counts. Clicking an emoji adds it, and clicking your own shows who reacted and lets you remove yours, however many there are."
+    ],
+    "de": [
+      "Reaktionen unter einer Nachricht werden einzeln mit ihrer Anzahl angezeigt. Ein Klick auf ein Emoji fügt es hinzu, ein Klick auf Ihr eigenes zeigt, wer reagiert hat, und Sie können Ihre Reaktion entfernen, egal wie viele es sind."
+    ],
+    "fr": [
+      "Les réactions sous un message s’affichent une par une avec leur nombre. Un clic sur un emoji l’ajoute, et un clic sur le vôtre montre qui a réagi et permet de retirer votre réaction, quel que soit leur nombre."
+    ]
+  },
+  {
     "version": "0.1.201",
     "date": "2026-11-17",
     "lt": [
