@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.1.200",
+    "date": "2026-11-17",
+    "lt": [
+      "Nebaigta žinutė nebedingsta: perjungus kitą pokalbį ar iš naujo paleidus programą ji lieka laukelyje, o pokalbių sąraše pažymėta „Juodraštis:“.",
+      "Pradėjus redaguoti žinutę, anksčiau rašytas tekstas nebedingsta – baigus ar atšaukus redagavimą jis grįžta į laukelį."
+    ],
+    "en": [
+      "An unfinished message no longer disappears: it stays in the field when you switch to another chat or restart the app, and the chat list marks it “Draft:”.",
+      "When you start editing a message, the text you were writing no longer disappears – it comes back to the field once you finish or cancel the edit."
+    ],
+    "de": [
+      "Eine nicht fertig geschriebene Nachricht verschwindet nicht mehr: Sie bleibt im Feld, wenn Sie einen anderen Chat öffnen oder die App neu starten, und die Chatliste zeigt „Entwurf:“.",
+      "Wenn Sie eine Nachricht bearbeiten, geht der Text, den Sie gerade geschrieben haben, nicht mehr verloren – er kehrt ins Feld zurück, sobald Sie die Bearbeitung beenden oder abbrechen."
+    ],
+    "fr": [
+      "Un message inachevé ne disparaît plus : il reste dans le champ quand vous passez à une autre conversation ou redémarrez l’application, et la liste des conversations l’indique par « Brouillon : ».",
+      "Quand vous commencez à modifier un message, le texte que vous écriviez ne disparaît plus : il revient dans le champ une fois la modification terminée ou annulée."
+    ]
+  },
+  {
     "version": "0.1.199",
     "date": "2026-11-16",
     "lt": [
