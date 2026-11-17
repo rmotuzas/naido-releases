@@ -1,5 +1,37 @@
 [
   {
+    "version": "0.1.201",
+    "date": "2026-11-17",
+    "lt": [
+      "Naido įsimena, kur buvote: paleidus iš naujo atsidaro tas pats pokalbis, skiltis, erdvė ir filtrai, o pokalbis – ten, kur baigėte skaityti (telefone – jei programą uždarė pats telefonas).",
+      "Atmestas kvietimas nebelieka sąraše, net jei jį atmetėte kitame įrenginyje.",
+      "Nuotraukos ar failo komentarą dabar galima redaguoti, o į galeriją jungiamos tik kartu išsiųstos nuotraukos.",
+      "Kuriant grupę galima pasirinkti, kas mato žinučių istoriją. Pagal nutylėjimą vėliau pridėtas žmogus mato žinutes tik nuo pakvietimo.",
+      "Ieškant žmonių (pvz., kviečiant į pokalbį) sąrašas nebešokinėja, kai ateina rezultatai iš serverio."
+    ],
+    "en": [
+      "Naido remembers where you were: after a restart the same chat, section, space and filters open, and a chat opens where you stopped reading (on phones, when the phone itself closed the app).",
+      "A declined invitation no longer stays in the list, even if you declined it on another device.",
+      "You can now edit the comment on a photo or file, and only photos sent together are joined into a gallery.",
+      "When creating a group you can choose who sees the message history. By default, someone added later sees messages only from their invitation on.",
+      "When looking for people (for example to invite someone), the list no longer jumps when results arrive from the server."
+    ],
+    "de": [
+      "Naido merkt sich, wo Sie waren: Nach einem Neustart öffnen sich derselbe Chat, Bereich, Space und dieselben Filter, und ein Chat öffnet sich dort, wo Sie mit dem Lesen aufgehört haben (auf dem Telefon, wenn das Telefon die App selbst geschlossen hat).",
+      "Eine abgelehnte Einladung bleibt nicht mehr in der Liste, auch wenn Sie sie auf einem anderen Gerät abgelehnt haben.",
+      "Den Kommentar zu einem Foto oder einer Datei können Sie jetzt bearbeiten, und nur zusammen gesendete Fotos werden zu einer Galerie zusammengefasst.",
+      "Beim Erstellen einer Gruppe können Sie wählen, wer den Nachrichtenverlauf sieht. Standardmäßig sieht eine später hinzugefügte Person Nachrichten erst ab ihrer Einladung.",
+      "Bei der Personensuche (etwa beim Einladen) springt die Liste nicht mehr, wenn Ergebnisse vom Server eintreffen."
+    ],
+    "fr": [
+      "Naido se souvient où vous en étiez : après un redémarrage, la même conversation, la même section, le même espace et les mêmes filtres s’ouvrent, et une conversation s’ouvre là où vous avez arrêté de lire (sur téléphone, quand c’est le téléphone qui a fermé l’application).",
+      "Une invitation refusée ne reste plus dans la liste, même si vous l’avez refusée sur un autre appareil.",
+      "Vous pouvez désormais modifier le commentaire d’une photo ou d’un fichier, et seules les photos envoyées ensemble sont regroupées en galerie.",
+      "En créant un groupe, vous pouvez choisir qui voit l’historique des messages. Par défaut, une personne ajoutée plus tard ne voit les messages qu’à partir de son invitation.",
+      "Lorsque vous cherchez des personnes (par exemple pour inviter quelqu’un), la liste ne saute plus quand les résultats du serveur arrivent."
+    ]
+  },
+  {
     "version": "0.1.200",
     "date": "2026-11-17",
     "lt": [
