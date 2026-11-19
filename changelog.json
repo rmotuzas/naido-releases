@@ -1,5 +1,29 @@
 [
   {
+    "version": "0.1.204",
+    "date": "2026-11-19",
+    "lt": [
+      "Asmeninės žinutės dabar vadinasi „Žymės“ ir turi savo skiltį (telefone – erdvių lange), o „Išsaugoti“ liko tik failams. Pridėjus žymę ar prisegus žinutę, apačioje parodoma, kur ji atsidūrė.",
+      "Juosta „Nėra ryšio su serveriu“ nebeiššoka dėl trumpo trikdžio ar grįžus į Naido telefone, o „Bandyti dabar“ iškart jungiasi ir tai parodo.",
+      "Telefone nuotrauką galima padidinti dviem pirštais arba dukart bakstelėjus, o padidintą – pastumti pirštu."
+    ],
+    "en": [
+      "Your personal saved messages are now called “Bookmarks” and have their own section (on phones, in the spaces menu), and “Save” is only for files. After bookmarking or pinning a message, a note at the bottom shows where it went.",
+      "The “Can't reach the server” bar no longer pops up after a brief hiccup or when you return to Naido on your phone, and “Try now” connects at once and shows it.",
+      "On phones you can zoom into a photo with two fingers or a double tap, and move around it with one finger."
+    ],
+    "de": [
+      "Ihre persönlich gespeicherten Nachrichten heißen jetzt „Lesezeichen“ und haben einen eigenen Bereich (auf dem Telefon im Space-Menü), „Speichern“ gibt es nur noch für Dateien. Nach dem Hinzufügen eines Lesezeichens oder dem Anheften zeigt ein Hinweis unten, wo die Nachricht zu finden ist.",
+      "Die Leiste „Server nicht erreichbar“ erscheint nicht mehr bei einer kurzen Störung oder wenn Sie auf dem Telefon zu Naido zurückkehren, und „Jetzt versuchen“ verbindet sofort und zeigt das an.",
+      "Auf dem Telefon können Sie ein Foto mit zwei Fingern oder per Doppeltippen vergrößern und mit einem Finger verschieben."
+    ],
+    "fr": [
+      "Vos messages enregistrés s’appellent désormais « Marque-pages » et ont leur propre section (sur téléphone, dans le menu des espaces), et « Enregistrer » ne concerne plus que les fichiers. Après avoir ajouté un marque-page ou épinglé un message, une note en bas indique où le retrouver.",
+      "La barre « Impossible de joindre le serveur » n’apparaît plus après une brève coupure ou quand vous revenez sur Naido sur votre téléphone, et « Réessayer maintenant » se connecte aussitôt et l’indique.",
+      "Sur téléphone, vous pouvez agrandir une photo avec deux doigts ou d’un double appui, et la déplacer d’un doigt."
+    ]
+  },
+  {
     "version": "0.1.202",
     "date": "2026-11-17",
     "lt": [
