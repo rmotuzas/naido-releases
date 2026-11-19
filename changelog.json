@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.1.205",
+    "date": "2026-11-19",
+    "lt": [
+      "Žymėse ir prisegtose žinutėse matosi nuotraukų ir vaizdo įrašų miniatiūros.",
+      "Kai serveris pats nutraukia ryšį, Naido prisijungia iš naujo be juostos „Jungiamasi…“, jei tai trunka vos kelias sekundes."
+    ],
+    "en": [
+      "Bookmarks and pinned messages now show photo and video thumbnails.",
+      "When the server drops the connection, Naido reconnects without the “Connecting…” bar if it only takes a few seconds."
+    ],
+    "de": [
+      "Lesezeichen und angeheftete Nachrichten zeigen jetzt Vorschaubilder von Fotos und Videos.",
+      "Wenn der Server die Verbindung trennt, verbindet sich Naido ohne die Leiste „Verbindung wird hergestellt…“ neu, sofern es nur wenige Sekunden dauert."
+    ],
+    "fr": [
+      "Les marque-pages et les messages épinglés affichent désormais les miniatures des photos et des vidéos.",
+      "Quand le serveur coupe la connexion, Naido se reconnecte sans la barre « Connexion… » si cela ne prend que quelques secondes."
+    ]
+  },
+  {
     "version": "0.1.204",
     "date": "2026-11-19",
     "lt": [
