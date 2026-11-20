@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.1.206",
+    "date": "2026-11-20",
+    "lt": [
+      "Ištaisyta klaida, dėl kurios po paleidimo iš naujo įrenginys kartais prarasdavo šifravimo raktus ir vis prašydavo jį patvirtinti iš naujo.",
+      "Jei prisijungimas užstringa, Naido po minutės pasileidžia iš naujo pati, o jei ir tai nepadeda – parodo mygtuką „Paleisti iš naujo“."
+    ],
+    "en": [
+      "Fixed a bug where, after a restart, a device could lose its encryption keys and keep asking to be verified again.",
+      "If connecting hangs, Naido restarts itself after a minute, and if that does not help, shows a “Restart” button."
+    ],
+    "de": [
+      "Fehler behoben, durch den ein Gerät nach einem Neustart seine Verschlüsselungsschlüssel verlieren und immer wieder eine Bestätigung verlangen konnte.",
+      "Hängt der Verbindungsaufbau, startet Naido nach einer Minute selbst neu und zeigt, falls das nicht hilft, die Schaltfläche „Neu starten“."
+    ],
+    "fr": [
+      "Correction d’un bug qui, après un redémarrage, pouvait faire perdre ses clés de chiffrement à un appareil et lui faire redemander sans cesse une vérification.",
+      "Si la connexion reste bloquée, Naido redémarre de lui-même au bout d’une minute et, si cela ne suffit pas, affiche le bouton « Redémarrer »."
+    ]
+  },
+  {
     "version": "0.1.205",
     "date": "2026-11-19",
     "lt": [
