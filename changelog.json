@@ -1,5 +1,37 @@
 [
   {
+    "version": "0.1.210",
+    "date": "2026-11-21",
+    "lt": [
+      "Pokalbių istorija laikoma įrenginyje ir fone atsisiunčiama visa: po paleidimo iš naujo ji nebeprapuola, slinkti atgal galima iš karto ir be ryšio, o slinkimas nebeužstringa ties kažkuria data. Kiek istorijos jau atsisiųsta, rodo plona linija po pokalbio paveikslėliu.",
+      "Paieška pokalbyje randa žinutes visoje jo istorijoje, ir šifruotuose pokalbiuose.",
+      "Juosta „Nėra ryšio su serveriu“ rodoma tik tada, kai serveris tikrai nepasiekiamas, ir visada su mygtuku „Bandyti dabar“.",
+      "Pasirinkus dieną kalendoriuje, paieškos rezultatą ar seną žinutę, pokalbis iškart atsidaro toje vietoje, kad ir kaip seniai tai buvo, o šifruotų pokalbių senesnės žinutės nebelieka „Iššifruojama…“.",
+      "Kompiuteryje atidarius nuotrauką, viršutinė Naido lango juosta lieka matoma: langą galima tempti, išdidinti ar uždaryti."
+    ],
+    "en": [
+      "Chat history is kept on the device and downloaded in full in the background: it no longer disappears after a restart, you can scroll back at once and offline, and scrolling no longer gets stuck at some date. A thin line under a chat's picture shows how much of it is downloaded.",
+      "Search in a chat finds messages in all of its history, encrypted chats too.",
+      "The “Can't reach the server” bar shows only when the server really can't be reached, and always with “Try now”.",
+      "Picking a day in the calendar, a search result or an old message opens the chat right there at once, however long ago it was, and older messages in encrypted chats no longer stay “Decrypting…”.",
+      "On a computer, the top bar of the Naido window stays visible while a photo is open, so you can move, maximize or close the window."
+    ],
+    "de": [
+      "Der Chatverlauf wird auf dem Gerät gespeichert und im Hintergrund vollständig geladen: Er verschwindet nach einem Neustart nicht mehr, Sie können sofort und offline zurückscrollen, und das Scrollen bleibt nicht mehr an einem Datum hängen. Eine dünne Linie unter dem Bild eines Chats zeigt, wie viel davon geladen ist.",
+      "Die Suche in einem Chat findet Nachrichten im gesamten Verlauf, auch in verschlüsselten Chats.",
+      "Die Leiste „Server nicht erreichbar“ erscheint nur, wenn der Server wirklich nicht erreichbar ist, und immer mit „Jetzt versuchen“.",
+      "Ein Tag im Kalender, ein Suchergebnis oder eine alte Nachricht öffnet den Chat sofort an dieser Stelle, egal wie lange es her ist, und ältere Nachrichten in verschlüsselten Chats bleiben nicht mehr bei „Wird entschlüsselt…“ stehen.",
+      "Am Computer bleibt die obere Leiste des Naido-Fensters sichtbar, während ein Foto geöffnet ist: Sie können das Fenster verschieben, maximieren oder schließen."
+    ],
+    "fr": [
+      "L’historique des discussions est conservé sur l’appareil et téléchargé entièrement en arrière-plan : il ne disparaît plus après un redémarrage, vous pouvez remonter tout de suite et hors connexion, et le défilement ne bloque plus à une date. Une fine ligne sous l’image d’une discussion indique la part déjà téléchargée.",
+      "La recherche dans une discussion trouve les messages dans tout son historique, discussions chiffrées comprises.",
+      "La barre « Impossible de joindre le serveur » n’apparaît que lorsque le serveur est vraiment injoignable, et toujours avec « Réessayer maintenant ».",
+      "Choisir un jour dans le calendrier, un résultat de recherche ou un ancien message ouvre aussitôt la discussion à cet endroit, aussi ancien soit-il, et les messages plus anciens des discussions chiffrées ne restent plus sur « Déchiffrement… ».",
+      "Sur ordinateur, la barre supérieure de la fenêtre Naido reste visible quand une photo est ouverte : vous pouvez déplacer, agrandir ou fermer la fenêtre."
+    ]
+  },
+  {
     "version": "0.1.206",
     "date": "2026-11-20",
     "lt": [
