@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.1.211",
+    "date": "2026-11-21",
+    "lt": [
+      "Nuotraukos peržiūroje atsirado „Bendrinti“ (išsiųsti kita programa), „Persiųsti“ ir „Informacija“: kas, kada ir kur ją išsiuntė, failo dydis ir matmenys. Kompiuteryje nuotrauką galima pasukti.",
+      "Telefone peržiūros mygtukai dabar apačioje, kad lengvai pasiektų nykštys."
+    ],
+    "en": [
+      "The photo viewer now has Share (send it with another app), Forward and Info: who sent it, when and where, the file size and dimensions. On a computer you can also rotate the photo.",
+      "On phones, the viewer's buttons are now at the bottom, within easy reach of your thumb."
+    ],
+    "de": [
+      "Die Fotoansicht hat jetzt „Teilen“ (mit einer anderen App senden), „Weiterleiten“ und „Informationen“: wer es wann und wo gesendet hat, Dateigröße und Abmessungen. Am Computer können Sie das Foto auch drehen.",
+      "Auf dem Telefon sind die Schaltflächen der Ansicht jetzt unten, gut mit dem Daumen erreichbar."
+    ],
+    "fr": [
+      "La visionneuse de photos propose désormais « Partager » (envoyer avec une autre application), « Transférer » et « Informations » : qui l’a envoyée, quand et où, la taille et les dimensions du fichier. Sur ordinateur, vous pouvez aussi faire pivoter la photo.",
+      "Sur téléphone, les boutons de la visionneuse sont désormais en bas, à portée du pouce."
+    ]
+  },
+  {
     "version": "0.1.210",
     "date": "2026-11-21",
     "lt": [
