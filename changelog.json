@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.1.212",
+    "date": "2026-11-25",
+    "lt": [
+      "Išsaugant failą kompiuteryje, lange parinktas jo tipas (pvz. PNG), todėl įrašius vardą be plėtinio failas vis tiek išsaugomas tinkamai ir atsidaro."
+    ],
+    "en": [
+      "When you save a file on a computer, the dialog now picks its type (e.g. PNG), so a name typed without an extension still saves a file that opens."
+    ],
+    "de": [
+      "Beim Speichern einer Datei am Computer ist im Dialog jetzt ihr Typ (z. B. PNG) gewählt, sodass auch ein Name ohne Endung eine Datei ergibt, die sich öffnen lässt."
+    ],
+    "fr": [
+      "Lorsque vous enregistrez un fichier sur ordinateur, la fenêtre choisit désormais son type (p. ex. PNG) : même sans extension dans le nom, le fichier s’ouvre correctement."
+    ]
+  },
+  {
     "version": "0.1.211",
     "date": "2026-11-21",
     "lt": [
