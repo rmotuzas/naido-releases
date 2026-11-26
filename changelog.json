@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.1.214",
+    "date": "2026-11-26",
+    "lt": [
+      "Telefone nuotraukos ikonėlė atidaro sisteminį nuotraukų parinkiklį, todėl kai kuriuose telefonuose (pvz. Samsung) iš galerijos pasirinktos nuotraukos vėl išsiunčiamos be klaidos.",
+      "Pokalbių paieška randa pokalbį pagal kelis vardus bet kuria tvarka, pvz. „povilas lukas“ randa „Povilas, Lukas, Dovydas“."
+    ],
+    "en": [
+      "On phones, the photo button opens the system photo picker, so photos picked from the gallery send without an error again on some phones (such as Samsung).",
+      "Chat search finds a chat by several names in any order, e.g. “povilas lukas” finds “Povilas, Lukas, Dovydas”."
+    ],
+    "de": [
+      "Auf dem Telefon öffnet die Foto-Schaltfläche die Fotoauswahl des Systems, sodass aus der Galerie gewählte Fotos auf manchen Telefonen (z. B. Samsung) nicht mehr mit einem Fehler hängen bleiben.",
+      "Die Chatsuche findet einen Chat über mehrere Namen in beliebiger Reihenfolge, z. B. findet „povilas lukas“ „Povilas, Lukas, Dovydas“."
+    ],
+    "fr": [
+      "Sur téléphone, le bouton photo ouvre le sélecteur de photos du système : les photos choisies dans la galerie ne restent plus bloquées par une erreur sur certains téléphones (par ex. Samsung).",
+      "La recherche de discussions trouve une discussion à partir de plusieurs noms, dans n’importe quel ordre : « povilas lukas » trouve « Povilas, Lukas, Dovydas »."
+    ]
+  },
+  {
     "version": "0.1.212",
     "date": "2026-11-25",
     "lt": [
