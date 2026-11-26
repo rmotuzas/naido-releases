@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.1.215",
+    "date": "2026-11-26",
+    "lt": [
+      "Įklijavus paveikslėlį (Ctrl+V) ir išsiuntus jį Enter, žymeklis grįžta į žinutės laukelį, todėl galima iškart rašyti toliau."
+    ],
+    "en": [
+      "After pasting a picture (Ctrl+V) and sending it with Enter, the cursor goes back to the message field, so you can keep typing right away."
+    ],
+    "de": [
+      "Nach dem Einfügen eines Bildes (Strg+V) und dem Senden mit der Eingabetaste kehrt der Cursor ins Nachrichtenfeld zurück, sodass Sie sofort weiterschreiben können."
+    ],
+    "fr": [
+      "Après avoir collé une image (Ctrl+V) et l’avoir envoyée avec Entrée, le curseur revient dans le champ du message : vous pouvez continuer à écrire tout de suite."
+    ]
+  },
+  {
     "version": "0.1.214",
     "date": "2026-11-26",
     "lt": [
