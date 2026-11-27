@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.1.217",
+    "date": "2026-11-27",
+    "lt": [
+      "Grupėje galima pranešti visiems nariams: parašykite @room, @all arba @everyone (jei pokalbio teisės leidžia).",
+      "Nauja būsena „Iš namų“: matosi, kas šiandien dirba nuotoliu, o pats žmogus rodomas kaip dirbantis, ne „Ne darbe“."
+    ],
+    "en": [
+      "You can notify everyone in a group: type @room, @all or @everyone (if the chat's permissions allow it).",
+      "New status “From home”: you can see who works remotely today, and they show as working, not as away."
+    ],
+    "de": [
+      "In einer Gruppe können Sie alle Mitglieder benachrichtigen: Schreiben Sie @room, @all oder @everyone (sofern die Rechte des Chats es erlauben).",
+      "Neuer Status „Homeoffice“: Sie sehen, wer heute von zu Hause arbeitet, und die Person wird als arbeitend angezeigt, nicht als abwesend."
+    ],
+    "fr": [
+      "Dans un groupe, vous pouvez notifier tous les membres : écrivez @room, @all ou @everyone (si les droits de la discussion le permettent).",
+      "Nouveau statut « Télétravail » : vous voyez qui travaille à distance aujourd’hui, et la personne apparaît comme au travail, pas absente."
+    ]
+  },
+  {
     "version": "0.1.215",
     "date": "2026-11-26",
     "lt": [
