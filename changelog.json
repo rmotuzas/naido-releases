@@ -1,5 +1,37 @@
 [
   {
+    "version": "0.1.220",
+    "date": "2026-11-28",
+    "lt": [
+      "Telefone į žinutę galima atsakyti arba pažymėti ją perskaityta tiesiai iš pranešimo; pranešimai rodomi kaip pokalbis, su nuotrauka. Be to, telefone pranešimai vėl ateina, kai Naido veikia fone, o fone paliktas pokalbis nebežymimas perskaitytu.",
+      "Telefone: žinutę braukite į dešinę, kad atsakytumėte; paskutiniai pokalbiai siūlomi iškart bendrinimo lange; Naido galima užrakinti telefono užraktu (Nustatymai → Saugumas).",
+      "Po žinute su nuoroda rodoma puslapio peržiūra (šifruotuose pokalbiuose – tik įjungus nustatymuose).",
+      "Kompiuteryje pranešimai neiššoka per pristatymą ar įjungus „Netrukdyti“; Ctrl+F ieško atidarytame pokalbyje, Alt+↑ ir Alt+↓ perjungia pokalbius.",
+      "Saugiau: perspėjame, kai pašnekovas naudoja nepatvirtintą įrenginį ar pasikeičia jo šifravimo raktai; prieš atidarydami tinklo vietą iš žinutės paklausiame; iš pokalbio atidaryti failai pažymimi kaip atsisiųsti iš interneto."
+    ],
+    "en": [
+      "On phones you can reply to a message or mark it as read straight from its notification; notifications are shown as a conversation, with the picture. Also, on phones notifications arrive again while Naido runs in the background, and a chat left open in the background is no longer marked read.",
+      "On phones: swipe a message to the right to reply; recent chats are offered right in the share sheet; Naido can be locked with the phone’s own lock (Settings → Security).",
+      "A message with a link shows a preview of the page (in encrypted chats only if turned on in settings).",
+      "On computers notifications stay away during a presentation or while “Do not disturb” is on; Ctrl+F searches the open chat, Alt+↑ and Alt+↓ switch chats.",
+      "Safer: a warning when someone uses an unconfirmed device or their encryption keys change; we ask before opening a network location from a message; files opened from a chat are marked as downloaded from the internet."
+    ],
+    "de": [
+      "Auf dem Telefon können Sie direkt aus der Benachrichtigung antworten oder eine Nachricht als gelesen markieren; Benachrichtigungen werden als Unterhaltung mit Bild angezeigt. Außerdem kommen auf dem Telefon wieder Benachrichtigungen, wenn Naido im Hintergrund läuft, und ein im Hintergrund offener Chat wird nicht mehr als gelesen markiert.",
+      "Auf dem Telefon: Wischen Sie eine Nachricht nach rechts, um zu antworten; die letzten Chats werden direkt im Teilen-Fenster angeboten; Naido lässt sich mit der Sperre des Telefons sperren (Einstellungen → Sicherheit).",
+      "Unter einer Nachricht mit Link erscheint eine Vorschau der Seite (in verschlüsselten Chats nur, wenn in den Einstellungen aktiviert).",
+      "Am Computer erscheinen während einer Präsentation oder bei „Nicht stören“ keine Benachrichtigungen; Strg+F sucht im geöffneten Chat, Alt+↑ und Alt+↓ wechseln den Chat.",
+      "Sicherer: Warnung, wenn jemand ein unbestätigtes Gerät nutzt oder sich seine Verschlüsselungsschlüssel ändern; vor dem Öffnen eines Netzwerkpfads aus einer Nachricht fragen wir nach; aus dem Chat geöffnete Dateien werden als aus dem Internet heruntergeladen markiert."
+    ],
+    "fr": [
+      "Sur téléphone, vous pouvez répondre à un message ou le marquer comme lu directement depuis sa notification ; les notifications s’affichent comme une conversation, avec la photo. De plus, sur téléphone, les notifications arrivent de nouveau quand Naido tourne en arrière-plan, et une discussion restée ouverte n’est plus marquée comme lue.",
+      "Sur téléphone : balayez un message vers la droite pour répondre ; les discussions récentes sont proposées directement dans la fenêtre de partage ; Naido peut être verrouillé avec le verrou du téléphone (Paramètres → Sécurité).",
+      "Un message contenant un lien affiche un aperçu de la page (dans les discussions chiffrées, seulement si activé dans les paramètres).",
+      "Sur ordinateur, les notifications n’apparaissent pas pendant une présentation ni en mode « Ne pas déranger » ; Ctrl+F cherche dans la discussion ouverte, Alt+↑ et Alt+↓ changent de discussion.",
+      "Plus sûr : un avertissement quand quelqu’un utilise un appareil non confirmé ou que ses clés de chiffrement changent ; nous demandons avant d’ouvrir un emplacement réseau depuis un message ; les fichiers ouverts depuis une discussion sont marqués comme téléchargés d’Internet."
+    ]
+  },
+  {
     "version": "0.1.217",
     "date": "2026-11-27",
     "lt": [
